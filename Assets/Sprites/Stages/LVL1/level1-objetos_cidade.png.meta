@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: b05f2894e6257814b812721ae33b7fb2
+timeCreated: 1475271453
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    8900000: generatedCubemap
+    21300000: level1-objetos_cidade_0
+    21300002: level1-objetos_cidade_1
+    21300004: level1-objetos_cidade_2
+    21300006: level1-objetos_cidade_3
+    21300008: level1-objetos_cidade_4
+    21300010: level1-objetos_cidade_5
+    21300012: level1-objetos_cidade_6
+    21300014: level1-objetos_cidade_7
+    21300016: level1-objetos_cidade_8
+    21300018: level1-objetos_cidade_9
+    21300020: level1-objetos_cidade_10
+    21300022: level1-objetos_cidade_11
+    21300024: level1-objetos_cidade_12
+    21300026: level1-objetos_cidade_13
+    21300028: level1-objetos_cidade_14
+    21300030: level1-objetos_cidade_15
+    21300032: level1-objetos_cidade_16
+    21300034: level1-objetos_cidade_17
+    21300036: level1-objetos_cidade_18
+    21300038: level1-objetos_cidade_19
+    21300040: level1-objetos_cidade_20
+    21300042: level1-objetos_cidade_21
+    21300044: level1-objetos_cidade_22
+    21300046: level1-objetos_cidade_23
+    21300048: level1-objetos_cidade_24
+    21300050: level1-objetos_cidade_25
+    21300052: level1-objetos_cidade_26
+    21300054: level1-objetos_cidade_27
+    21300056: level1-objetos_cidade_28
+    21300058: level1-objetos_cidade_29
+    21300060: level1-objetos_cidade_30
+    21300062: level1-objetos_cidade_31
+    21300064: level1-objetos_cidade_32
+    21300066: level1-objetos_cidade_33
+    21300068: level1-objetos_cidade_34
+    21300070: level1-objetos_cidade_35
+    21300072: level1-objetos_cidade_36
+    21300074: level1-objetos_cidade_37
+    21300076: level1-objetos_cidade_38
+    21300078: level1-objetos_cidade_39
+    21300080: level1-objetos_cidade_40
+    21300082: level1-objetos_cidade_41
+    21300084: level1-objetos_cidade_42
+    21300086: level1-objetos_cidade_43
+    21300088: level1-objetos_cidade_44
+    21300090: level1-objetos_cidade_45
+    21300092: level1-objetos_cidade_46
+    21300094: level1-objetos_cidade_47
+    21300096: level1-objetos_cidade_48
+    21300098: level1-objetos_cidade_49
+    21300100: level1-objetos_cidade_50
+    21300102: level1-objetos_cidade_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level1-objetos_cidade_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 284
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 268
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 204
+        width: 15
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 252
+        width: 40
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 252
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 225
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 225
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 225
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 225
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 236
+        width: 40
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 236
+        width: 16
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 232
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 232
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 225
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 204
+        width: 35
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 172
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 172
+        width: 17
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 172
+        width: 17
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 218
+        width: 22
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 34
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 204
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 194
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 204
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 194
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 156
+        width: 12
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 156
+        width: 16
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 154
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 188
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 188
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 56
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 156
+        width: 8
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 156
+        width: 11
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 176
+        width: 14
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 176
+        width: 14
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 156
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 161
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 160
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 161
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 149
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 149
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 108
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 124
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 124
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 124
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 124
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 124
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 124
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 124
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: level1-objetos_cidade_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 40
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

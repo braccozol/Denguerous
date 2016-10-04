@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Building
+  - SceneObject
+  - Item
+  - Enemy
+  - Player
+  - HUD
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2178967973
+    locked: 0
+  - name: Building
+    uniqueID: 876871501
+    locked: 0
+  - name: Ground
+    uniqueID: 2166584791
+    locked: 0
+  - name: SceneObject
+    uniqueID: 1094669279
+    locked: 0
+  - name: Item
+    uniqueID: 2160019459
+    locked: 0
+  - name: Enemy
+    uniqueID: 3422877911
+    locked: 0
+  - name: Player
+    uniqueID: 1167508383
+    locked: 0
+  - name: HUD
+    uniqueID: 784575287
+    locked: 0
